@@ -1,0 +1,20 @@
+{
+  "id": "red-sand-rally",
+  "title": {
+    "en": "red-sand-rally",
+    "zh": "赤沙狂飙"
+  },
+  "intro": {
+    "en": "Race through a sunset canyon. Dodge rivals, drift through bends, burn nitro and clear your lane with a pulse. An original, touch-first desert racer.",
+    "zh": "穿越落日峡谷，躲避对手，漂移过弯，释放氮气与脉冲冲击。原创触屏沙漠赛车。"
+  },
+  "officialFiles": [
+    "vendor/index.html",
+    "vendor/rally.js",
+    "vendor/rally.css",
+    "vendor/LICENSE.txt"
+  ],
+  "playHtml": "play.html",
+  "aspect": "phone",
+  "githubRepo": "ypaaaaaaaaaaaaa/red-sand-rally"
+}
